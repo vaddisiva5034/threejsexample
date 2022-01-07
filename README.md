@@ -1,5 +1,9 @@
 # threejsexample
 
-#npm install
+**Step 1** 
+**Install node packages**
+### npm install
 
-#npm run dev
+**Step 2** 
+**run local server**
+### npm run dev
